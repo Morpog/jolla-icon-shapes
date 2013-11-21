@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="90"
-   height="90"
+   width="86"
+   height="86"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.2 r9819"
@@ -42,7 +42,7 @@
        y1="80"
        x2="40"
        y2="10"
-       gradientTransform="matrix(1,0,0,-1,0,90)" />
+       gradientTransform="matrix(0.95555556,0,0,-0.95555556,0,90)" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -88,10 +88,11 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Ebene"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-4)">
     <path
        style="fill:url(#linearGradient3925);fill-opacity:1;stroke:none;display:inline"
-       d="M 45,90 C 20.147186,90 0,69.852814 0,45 L 0,2.3125 C 0,1.026994 1.026994,0 2.3125,0 L 45,0 C 69.852814,0 90,20.147186 90,45 90,69.852814 69.852814,90 45,90 z"
+       d="M 43,90 C 19.251756,90 0,70.748244 0,47 L 0,6.2097222 C 0,4.9813498 0.98134982,4 2.2097222,4 L 43,4 C 66.748244,4 86,23.251756 86,47 86,70.748244 66.748244,90 43,90 z"
        id="rect3059"
        inkscape:connector-curvature="0" />
   </g>
