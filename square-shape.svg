@@ -14,7 +14,7 @@
    height="86"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.2 r9819"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="square-shape.svg"
    inkscape:export-filename="C:\Users\Stephan\Desktop\double-shape.png"
    inkscape:export-xdpi="90"
@@ -22,27 +22,25 @@
   <defs
      id="defs4">
     <linearGradient
-       id="linearGradient3789">
+       id="linearGradient3789-6">
       <stop
-         style="stop-color:#0a75c2;stop-opacity:1;"
+         style="stop-color:#1e9bff;stop-opacity:1;"
          offset="0"
-         id="stop3791" />
+         id="stop3791-0" />
       <stop
-         style="stop-color:#064572;stop-opacity:1;"
+         style="stop-color:#00c8de;stop-opacity:1;"
          offset="1"
-         id="stop3793" />
+         id="stop3793-4" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3789"
-       id="linearGradient3835"
-       x1="45"
-       y1="10"
-       x2="45"
-       y2="80"
-       gradientUnits="userSpaceOnUse"
-       spreadMethod="reflect"
-       gradientTransform="matrix(0.95555556,0,0,0.95555556,0,4)" />
+       xlink:href="#linearGradient3789-6"
+       id="linearGradient3769"
+       x1="86"
+       y1="90"
+       x2="0"
+       y2="4"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -51,20 +49,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="23.608209"
-     inkscape:cy="56.646221"
+     inkscape:zoom="4"
+     inkscape:cx="43.192923"
+     inkscape:cy="37.970233"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1148"
-     inkscape:window-x="-8"
+     inkscape:window-width="1680"
+     inkscape:window-height="998"
+     inkscape:window-x="1672"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
-     inkscape:snap-global="true"
-     width="86px">
+     inkscape:snap-global="true">
     <inkscape:grid
        type="xygrid"
        id="grid2985"
@@ -92,12 +89,12 @@
      style="display:inline"
      transform="translate(0,-4)">
     <rect
-       style="fill:url(#linearGradient3835);fill-opacity:1;stroke:none"
-       id="rect3059"
-       width="86"
-       height="86"
-       x="0"
-       y="4"
-       ry="2.2172787" />
+       style="fill:url(#linearGradient3769);fill-opacity:1;stroke:none"
+       id="rect3017"
+       width="85.400002"
+       height="85.400002"
+       x="0.29999924"
+       y="4.2999992"
+       ry="1.4335938" />
   </g>
 </svg>
